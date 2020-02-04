@@ -1,0 +1,18 @@
+- menu:
+	- calendario
+		- lembretes, eventos
+		- visualização mensal
+	- adcionar tarefas
+	- editar tarefas
+	- compartilhar eventos
+
+- notificação
+
+- versão (premium)
+	- teste grátis (7 dias)
+	- bot
+		- apelido
+		- editar avatar
+		- frases motivacionais
+	- recomendações sobre saúde
+	- habitos repetitivos
