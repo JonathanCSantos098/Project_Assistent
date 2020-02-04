@@ -1,0 +1,26 @@
+roteiro aplicativo:
+	- download na loja de apps
+	- entrar no app
+	- tutorial
+	- barra lateral com menu de icones
+		- perfil
+			- personalizar o avatar()
+			- reconhecimento facial
+		- tema
+			- diurno
+			- noturno
+		- configurações
+			- notificação
+				- sons
+				- icone
+		- ajuda
+			- suporte desenvolvedor
+			- tutorial
+	- tela principal  com calendario e visualização das tarefas daquele dia
+	- experiencia premium - 7 dias
+	- após escolha de assinatura do premium
+		- continua com premium
+		- notificações de pagamento mensais
+		- formas de pagamento (cartão/boleto)
+	- acesso ao app sem funções extras (funções normais)
+	-
